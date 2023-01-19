@@ -1,0 +1,44 @@
+{
+  "itemId" : "_Qp75AJglEe2h__v5V1Dz4Q",
+  "contextList" : [ {
+    "contextName" : "Prod",
+    "repoId" : "_elNPIJgnEe2h__v5V1Dz4Q",
+    "parameterList" : [ {
+      "id" : "_elimV5gnEe2h__v5V1Dz4Q",
+      "name" : "parameter_inputfolder"
+    }, {
+      "id" : "_elimWJgnEe2h__v5V1Dz4Q",
+      "name" : "parameter_outputfolder"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_elNPIJgnEe2h__v5V1Dz4Q",
+    "parameterList" : [ {
+      "id" : "_elimVJgnEe2h__v5V1Dz4Q",
+      "name" : "parameter_inputfolder"
+    }, {
+      "id" : "_elimVZgnEe2h__v5V1Dz4Q",
+      "name" : "parameter_outputfolder"
+    } ]
+  }, {
+    "contextName" : "Staging",
+    "repoId" : "_elNPIJgnEe2h__v5V1Dz4Q",
+    "parameterList" : [ {
+      "id" : "_elimWpgnEe2h__v5V1Dz4Q",
+      "name" : "parameter_inputfolder"
+    }, {
+      "id" : "_elimW5gnEe2h__v5V1Dz4Q",
+      "name" : "parameter_outputfolder"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_elNPIJgnEe2h__v5V1Dz4Q",
+    "parameterList" : [ {
+      "id" : "_elimUZgnEe2h__v5V1Dz4Q",
+      "name" : "parameter_inputfolder"
+    }, {
+      "id" : "_elimUpgnEe2h__v5V1Dz4Q",
+      "name" : "parameter_outputfolder"
+    } ]
+  } ]
+}
